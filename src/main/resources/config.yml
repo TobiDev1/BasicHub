@@ -1,0 +1,4 @@
+# BASIC HUB CORE CONFIG
+
+JOIN:
+  MESSAGE: "&7[&a+&7] &a%player% has joined To Server"

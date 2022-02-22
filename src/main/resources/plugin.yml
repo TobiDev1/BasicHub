@@ -1,0 +1,8 @@
+name: BasicHub
+version: '${project.version}'
+main: me.qv7.hub.Hub
+authors: [ 7qv ]
+description: HUBCORE BASIC OPEN SOURCE CODE
+commands:
+  author:
+    aliases: ["dev", "hubcore", "developer"]
